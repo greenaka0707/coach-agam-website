@@ -1,26 +1,21 @@
+---
+name: Coach Agam
+title: Football Educator
+tagline: Football Educator • Sports Science Practitioner • Football Development Consultant
+email: hello@coachagam.com
+website: https://coachagam.com
+---
 
 # Coach Agam
-
-## Name
-
-Coach Agam
-
-## Position
-
-Football Educator
-
-## Tagline
-
-Football Educator • Sports Science Practitioner • Football Development Consultant
 
 ## Short Bio
 
 Coming Soon
 
-## Philosophy
+## Mission
 
 Coming Soon
 
-## Mission
+## Philosophy
 
 Coming Soon
