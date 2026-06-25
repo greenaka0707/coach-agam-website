@@ -1,12 +1,16 @@
+import Header from "@/components/layout/Header";
+import Footer from "@/components/layout/Footer";
+
 export default function HomePage() {
   return (
-    <main>
-      <h1>Coach Agam</h1>
+    <>
+      <Header />
 
-      <p>
-        Football Educator • Sports Science Practitioner • Football Development
-        Consultant
-      </p>
-    </main>
+      <main>
+        Homepage
+      </main>
+
+      <Footer />
+    </>
   );
 }
